@@ -21,16 +21,16 @@
   android:layout_width="match_parent"
   android:layout_height="wrap_content"
   android:clipToPadding="false"
-  android:paddingTop="@dimen/keyline_5"
-  android:paddingBottom="@dimen/keyline_5"
-  android:paddingStart="@dimen/keyline_4"
-  android:paddingEnd="@dimen/keyline_4">
+  android:paddingTop="30dp"
+  android:paddingBottom="30dp"
+  android:paddingStart="30dp"
+  android:paddingEnd="30dp">
 
     <io.material.materialthemebuilder.widget.LabelLinkView
       android:id="@+id/label"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
-      android:text="@string/card_label_title"
+      android:text="Iker rey de España"
       app:linkUrl="https://material.io/design/components/cards.html"
       app:layout_constraintStart_toStartOf="parent"
       app:layout_constraintTop_toTopOf="parent" />
