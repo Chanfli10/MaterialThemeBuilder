@@ -24,7 +24,7 @@
       android:layout_height="24dp"
       android:padding="5dp"
       android:layout_marginEnd="@dimen/keyline_2"
-      app:tint="@color/material_on_background_emphasis_medium"
+      app:tint="@color/purple_200"
       app:srcCompat="@drawable/ic_format_size_24dp"
       android:visibility="gone" />
 
