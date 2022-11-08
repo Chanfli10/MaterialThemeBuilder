@@ -22,7 +22,6 @@
       android:id="@+id/label_leading_image_view"
       android:layout_width="24dp"
       android:layout_height="24dp"
-      android:padding="5dp"
       android:layout_marginEnd="@dimen/keyline_2"
       app:tint="@color/purple_200"
       app:srcCompat="@drawable/ic_format_size_24dp"
