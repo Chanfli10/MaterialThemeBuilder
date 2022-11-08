@@ -33,7 +33,7 @@
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
       android:layout_gravity="center_vertical"
-      android:text="Boton2"
+      android:text="Boton3"
       android:textAppearance="?attr/textAppearanceOverline"
       android:textColor="@color/material_on_background_emphasis_medium" />
 
